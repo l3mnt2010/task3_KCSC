@@ -4,6 +4,9 @@
 
 - Giống như tệp JAR của java, ở PHP ta có thể chia sẻ thư viện hoặc toàn bộ ứng dụng dưới dạng một tệp duy nhất đó là PHAR (PHP Archive)
 
+- Các xử lí file CỦA php cơ bản<ngôn ngữ c>
+![alt text](image-3.png)
+
 - Một file PHAR bao gồm 04 thành phần:
 
 1. Stub
@@ -35,6 +38,7 @@
 
 
 - Signature: là một hàm băm của file archive, ta phải có chữ ký hợp lệ nếu muốn truy cập file archive từ PHP
+![alt text](image-2.png)
 
 - Cách build 01 file phar:
 
