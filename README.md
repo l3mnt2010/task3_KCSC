@@ -28,6 +28,16 @@ Câu 6:
 Câu 7:
 1. upload file phar: https://github.com/l3mnt2010/task3_KCSC/blob/main/FileUpload/UploadFilePhar/UploadFilePhar.md
 2. file polygot: https://github.com/l3mnt2010/task3_KCSC/blob/main/FileUpload/File%20polygot.md
+3. signature file:
+4: Phar Deserialization: https://github.com/l3mnt2010/task3_KCSC/blob/main/FileUpload/PharDeserialization/PharDeserialization.md
+5. WU lab rootme: 
+
+Câu 8:  WU lab postswigger:
+
+Câu 9 : 
+1. metadata-checker:
+2. image-copy-resampled:
+
 
 
 
