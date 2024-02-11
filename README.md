@@ -2,17 +2,19 @@ Một gạch đầu dòng thì em gọi tắt là 1 câu hỏi ạ:3
 
 XSS:
 Câu 1:
-Khái niệm: https://github.com/l3mnt2010/task3_KCSC/blob/main/XSS-%20Kh%C3%A1i%20ni%E1%BB%87m.md
-Phân loại + lab : https://github.com/l3mnt2010/task3_KCSC/blob/main/XSS-%20Ph%C3%A2n%20lo%E1%BA%A1i.md
-So sánh theo thực tế ạ:3, em có so sánh ở đoạn phân loại rồi đây là theo em tìm hiểu thêm ạ:3:
+
+1. Khái niệm: https://github.com/l3mnt2010/task3_KCSC/blob/main/XSS-%20Kh%C3%A1i%20ni%E1%BB%87m.md
+2. Phân loại + lab : https://github.com/l3mnt2010/task3_KCSC/blob/main/XSS-%20Ph%C3%A2n%20lo%E1%BA%A1i.md
+3. So sánh theo thực tế ạ:3, em có so sánh ở đoạn phân loại rồi đây là theo em tìm hiểu thêm ạ :3:
 https://github.com/l3mnt2010/task3_KCSC/blob/main/XSS-%20So%20s%C3%A1nh.md
 
 Câu 2:
-CSP: https://github.com/l3mnt2010/task3_KCSC/blob/main/CSP%20v%C3%A0%20CORS/CSP/CSP.md
-- Một số cách bypass CSP ạ: https://github.com/bhaveshk90/Content-Security-Policy-CSP-Bypass-Techniques
-CORS : https://github.com/l3mnt2010/task3_KCSC/blob/main/CSP%20v%C3%A0%20CORS/CORS/CORS.md
+1. CSP: https://github.com/l3mnt2010/task3_KCSC/blob/main/CSP%20v%C3%A0%20CORS/CSP/CSP.md
+1.1. Một số cách bypass CSP ạ: https://github.com/bhaveshk90/Content-Security-Policy-CSP-Bypass-Techniques
+2. CORS : https://github.com/l3mnt2010/task3_KCSC/blob/main/CSP%20v%C3%A0%20CORS/CORS/CORS.md
 
-Câu 3: WU Post swigger ạ:
+Câu 3:
+1. WU Post swigger ạ:
 https://github.com/l3mnt2010/pswg-updating-/tree/main/Xss
 
 Câu 4 :  WU XSmaxNote(KCSC recruit):
@@ -34,7 +36,8 @@ Câu 7:
 4: Phar Deserialization: https://github.com/l3mnt2010/task3_KCSC/blob/main/FileUpload/PharDeserialization/PharDeserialization.md
 5. WU lab rootme: 
 
-Câu 8:  WU lab postswigger:
+Câu 8:  
+1. WU lab postswigger:
 
 Câu 9 : 
 1. metadata-checker:
