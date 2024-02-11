@@ -1,6 +1,6 @@
-Một gạch đầu dòng thì em gọi tắt là 1 câu hỏi ạ:3
+### Một gạch đầu dòng thì em gọi tắt là 1 câu hỏi ạ:3
 
-XSS:
+## XSS:
 Câu 1:
 
 1. Khái niệm: https://github.com/l3mnt2010/task3_KCSC/blob/main/XSS-%20Kh%C3%A1i%20ni%E1%BB%87m.md
@@ -20,7 +20,7 @@ https://github.com/l3mnt2010/pswg-updating-/tree/main/Xss
 Câu 4 :  WU XSmaxNote(KCSC recruit):
 https://github.com/l3mnt2010/KCSC_recruite/tree/main/XmasNotes
 
-File Upload:
+## File Upload:
 Câu 5: 
 https://github.com/l3mnt2010/task3_KCSC/blob/main/FileUpload/C%C3%A1ch%20web%20server%20x%E1%BB%AD%20l%C3%BD%20file%20PHP%20(PHP%20Interpreter).md
 
