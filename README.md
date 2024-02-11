@@ -16,6 +16,7 @@ Câu 3: WU Post swigger ạ:
 https://github.com/l3mnt2010/pswg-updating-/tree/main/Xss
 
 Câu 4 :  WU XSmaxNote(KCSC recruit):
+https://github.com/l3mnt2010/KCSC_recruite/tree/main/XmasNotes
 
 File Upload:
 Câu 5: 
