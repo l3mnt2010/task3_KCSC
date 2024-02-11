@@ -23,8 +23,9 @@ Câu 5:
 https://github.com/l3mnt2010/task3_KCSC/blob/main/FileUpload/C%C3%A1ch%20web%20server%20x%E1%BB%AD%20l%C3%BD%20file%20PHP%20(PHP%20Interpreter).md
 
 Câu 6:
-1. 
+1. https://github.com/l3mnt2010/task3_KCSC/blob/main/debugFile%20%26%26%20Ph%C3%A2n%20t%C3%ADch%20c%C3%A1c%20thu%E1%BB%99c%20t%C3%ADnh%20uploadFile.md
 2. 
+
 
 Câu 7:
 1. upload file phar: https://github.com/l3mnt2010/task3_KCSC/blob/main/FileUpload/UploadFilePhar/UploadFilePhar.md
