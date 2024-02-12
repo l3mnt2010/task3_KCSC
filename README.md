@@ -40,8 +40,8 @@ Câu 8:
 1. WU lab postswigger: https://hackmd.io/@l3mnt2010/Hyid8AvoT
 
 Câu 9 : 
-1. metadata-checker: https://hackmd.io/@l3mnt2010/BygbOX8j6
-2. image-copy-resampled:
+1. metadata-checker: https://hackmd.io/@l3mnt2010/BygbOX8j6#1-Metadata-checker
+2. image-copy-resampled:  https://hackmd.io/@l3mnt2010/BygbOX8j6#2-Image-Copy-resample
 
 
 
