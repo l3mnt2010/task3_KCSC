@@ -34,13 +34,13 @@ Câu 7:
 2. file polygot: https://github.com/l3mnt2010/task3_KCSC/blob/main/FileUpload/File%20polygot.md
 3. signature file: https://github.com/l3mnt2010/task3_KCSC/blob/main/FileUpload/SignatureFilePhar/SignatureFilePhar.md
 4. Phar Deserialization: https://github.com/l3mnt2010/task3_KCSC/blob/main/FileUpload/PharDeserialization/PharDeserialization.md
-5. WU lab rootme: 
+5. WU lab rootme: https://hackmd.io/@l3mnt2010/H1xWlhPsp
 
 Câu 8:  
-1. WU lab postswigger:
+1. WU lab postswigger: https://hackmd.io/@l3mnt2010/Hyid8AvoT
 
 Câu 9 : 
-1. metadata-checker:
+1. metadata-checker: https://hackmd.io/@l3mnt2010/BygbOX8j6
 2. image-copy-resampled:
 
 
