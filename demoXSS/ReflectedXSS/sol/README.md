@@ -23,3 +23,6 @@ Kết quả:
 ![alt text](image-4.png)
 ![alt text](image-5.png)
 
+
+- Trong này cũng có source của các trường hợp hay gặp ạ: https://github.com/l3mnt2010/task3_KCSC/blob/main/Filter%20v%C3%A0%20bypass%20XSS.md
+
