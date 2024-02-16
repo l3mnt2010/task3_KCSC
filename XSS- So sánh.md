@@ -13,3 +13,6 @@ Từ những điều này có thể thấy Stored XSS nguy hiểm hơn Reflected
 + Bạn đọc đã thấy được sự khác nhau của DOM based XSS và Reflected XSS chứ. Thế nhưng bạn sẽ thắc mắc rằng sự khác biệt này thì có ý nghĩa gì. Thật ra là có đấy. Trình duyệt web Google Chrome có một tính năng bảo mật được bật mặc định là XSS Auditor, nó là 1 filter của browser, có chức năng ngăn chặn cuộc tấn công XSS. Browser sẽ kiểm tra xem trong request mà client gửi lên có chứa mã độc không, nó sẽ so sánh script này với nội dung response từ server. Nếu script từ request giống với response, XSS Auditor sẽ nhận biết đây là một cuộc tấn công XSS và block đoạn script này.
 
 + Như vậy XSS Auditor chỉ ngăn chặn được Reflected XSS mà không ngăn chặn được DOM based XSS, vì script của hacker không được copy vào response từ server.
+
+
++ Reflected XSS thì sẽ qua xử lí sever sau đó được trả về ở sever còn DomBased XSS sẽ xử lí bằng cách hàm như location.search ở js để xử lí parameter bằng các hàm như document.write hay innerHTML hoặc các hàm trong jquery để xử lí và việc ngăn chặn DomBased XSS thì sẽ phải thực hiện ở front-end.
